@@ -9,7 +9,7 @@ It is based on the [Vercel Next-OpenAI](https://github.com/vercel/ai/tree/main/e
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init):
 
 ```bash
-npx create-next-app --example https://github.com/tom-auger/ai-teens-hackathon/tree/main/ ai-teens-hackathon
+npx create-next-app --example https://github.com/tom-auger/ai-teens-hackathon/tree/main/ tumo-ai-teens-hackathon
 ```
 
 To run the example locally you need to:
@@ -24,4 +24,4 @@ To run the example locally you need to:
 
 Deploy to vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fai%2Ftree%2Fmain%2Fexamples%2Fnext-openai&env=OPENAI_API_KEY&project-name=tumo-ai-teens-hackathon&repository-name=tumo-ai-teens-hackathon)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub%2Ecom%2Ftom%2Dauger%2Fai%2Dteens%2Dhackathon&env=OPENAI_API_KEY&project-name=tumo-ai-teens-hackathon&repository-name=tumo-ai-teens-hackathon)
