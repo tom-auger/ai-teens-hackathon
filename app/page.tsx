@@ -85,7 +85,7 @@ export default function Page() {
             fileInputRef.current.value = '';
           }
         }}
-        className="fixed bottom-0 flex flex-col w-full gap-2 p-2"
+        className="fixed bottom-0 flex flex-col w-full gap-2 px-32"
       >
         <div className="fixed flex flex-row items-end gap-2 right-2 bottom-14">
           {files
@@ -133,7 +133,7 @@ export default function Page() {
           value={input}
           placeholder="Send message..."
           onChange={handleInputChange}
-          className="w-full p-2 bg-zinc-100"
+          className="p-2 bg-zinc-100"
           disabled={status !== 'ready'}
         />
       </form>
